@@ -1,0 +1,1 @@
+You can write articles or search for articles from this website.It is made using HTML, CSS and Javascript.
